@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">  
+<properties>  
+	<comment>IK Analyzer 延伸組態</comment>
+	<!--使用者可以在這裡組態自己的延伸字典 
+	<entry key="ext_dict">ext.dic;</entry> 
+	-->
+	<!--使用者可以在這裡組態自己的延伸停止詞字典-->
+	<entry key="ext_stopwords">stopword.dic;</entry> 
+	
+</properties>
